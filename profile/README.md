@@ -1,12 +1,23 @@
-## Hi there 👋
+# Seigneurs Team  
 
-<!--
+**Молодая, энергичная команда студентов из Питера** 💡  
+Мы создаем крутые проекты, участвуем в хакатонах и постоянно прокачиваем свои навыки в самых разных направлениях.  
 
-**Here are some ideas to get you started:**
+### 🔥 Наши проекты  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 📊 **Pollster** – удобный инструмент для создания опросов  
+🔗 [GitHub](https://github.com/Seigneurs-Team/pollster)  
+📌 **Особенности:**  
+✔️ Простое создание голосований  
+✔️ Гибкие настройки опросов  
+✔️ Современный и интуитивный интерфейс  
+
+### 🚀 Что нас вдохновляет?  
+- Разработка полезных и удобных продуктов  
+- Участие в хакатонах и IT-соревнованиях  
+- Постоянное обучение и эксперименты  
+
+### 🌟 Присоединяйтесь к нам!  
+Хочешь в команду или просто пообщаться? Пиши в **TG: @b_glagolevsky** 
+
+**Вместе мы делаем технологии круче!** 🚀
